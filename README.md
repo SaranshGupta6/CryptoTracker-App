@@ -1,4 +1,4 @@
-CryptoCurrency-cum-PriceTracker App
+**CryptoCurrency-cum-PriceTracker App**
 
 This is CryptoTracker app, which helps us to track any cryptocurrency price with top gainers and top losers in last 24 hrs with price graph.
 
